@@ -1,0 +1,8 @@
+
+App Thinning Size Report for All Variants of MemoryPhotoGame
+
+Variant: MemoryPhotoGame-37DF3973-BCF8-4D11-AB81-64762A29FD28.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 14.0] and [device: iPhone11,8, os-version: 14.0]
+App + On Demand Resources size: 251 KB compressed, 411 KB uncompressed
+App size: 251 KB compressed, 411 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

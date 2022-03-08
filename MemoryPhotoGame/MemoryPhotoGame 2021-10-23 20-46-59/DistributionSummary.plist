@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MemoryPhotoGame.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D8E888A2A2F9FB204BB7E08A674CB4F8EDAF1D8B</string>
+				<key>dateExpires</key>
+				<string>23/10/2022</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>JQ26UV89CA.app.alro.memoryphotogame</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>JQ26UV89CA</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>JQ26UV89CA.app.alro.memoryphotogame</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>MemoryPhotoGame.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>2f4f36ba-66e2-4485-a986-3b689abbc50c</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: app.alro.memoryphotogame</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>JQ26UV89CA</string>
+				<key>name</key>
+				<string>Alvaro Martin Vigil Icochea</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
